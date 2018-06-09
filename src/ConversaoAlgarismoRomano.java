@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ConversãoAlgarismoRomano {
+public class ConversaoAlgarismoRomano {
 
     public void inicializarConversao(){
         try {

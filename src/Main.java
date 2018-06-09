@@ -13,6 +13,7 @@ class Main {
 
         ConversãoAlgarismoRomano conversãoAlgarismoRomano = new ConversãoAlgarismoRomano();
         conversãoAlgarismoRomano.inicializarConversao();
+        System.out.println("Após commit inicial.");
 
 
     }
